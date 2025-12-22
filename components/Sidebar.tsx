@@ -142,7 +142,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
              <span>Switch Course</span>
            </button>
            <div className="flex items-center justify-between text-xs text-slate-600 font-mono">
-              <span>NEONFLOW</span>
+              <span>SYNNEFO</span>
               <span>v1.0.0</span>
            </div>
         </div>
